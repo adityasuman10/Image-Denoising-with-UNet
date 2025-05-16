@@ -1,2 +1,2 @@
 # Image-Denoising-with-UNet
- ![Image Alt](https://github.com/adityasuman10/Image-Denoising-with-UNet/blob/97f996d2d6ec55a45272cf0924020ee5fd57e693/image_denosising%20(1).ipynb)
+ ![Image Alt](https://github.com/adityasuman10/Image-Denoising-with-UNet/blob/f56c82a2bc3fb46d02d3ed672f3127794a86c82a/Screenshot%202025-05-16%20200953.png)
